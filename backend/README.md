@@ -9,13 +9,13 @@ This project implements a secure **JWT-based authentication** system with **Role
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/AworThales/tinkteq-auth_test.git
+git clone https://github.com/AworThales/tinkteq-assessment.git
 
 
 Go to the project directory
 
 ```bash
-  cd tinkteq_auth_test
+  cd backend
 ```
 Install dependencies
 ```bash
