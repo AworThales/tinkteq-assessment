@@ -1,0 +1,62 @@
+[
+    {
+        "name" : "Banana",
+        "price" : "20.20",
+        "description" : "my new Bananna for buying",
+        "Ratings": 3.5,
+        "images": [{
+          "public_id": "1223344",
+          "url": "http://res.cloudinary.com"
+        }],
+        "category": "Laptop",
+        "seller": "Ebay",
+        "stock": 40,
+        "numOfReviews": 24,
+        "rewiew": []
+      },
+    {
+        "name" : "Bean",
+        "price" : "20.20",
+        "description" : "my new Beans for buying",
+        "Ratings": 3.5,
+        "images": [{
+          "public_id": "1223344",
+          "url": "http://res.cloudinary.com"
+        }],
+        "category": "Food",
+        "seller": "Jumia",
+        "stock": 40,
+        "numOfReviews": 24,
+        "rewiew": []
+      },
+    {
+        "name" : "Orange",
+        "price" : "20.20",
+        "description" : "my new Bananna for buying",
+        "Ratings": 3.5,
+        "images": [{
+          "public_id": "1223344",
+          "url": "http://res.cloudinary.com"
+        }],
+        "category": "Camera",
+        "seller": "amazon",
+        "stock": 40,
+        "numOfReviews": 24,
+        "rewiew": []
+      },
+    {
+        "name" : "Garri",
+        "price" : "20.20",
+        "description" : "my new Bananna for buying",
+        "Ratings": 3.5,
+        "images": [{
+          "public_id": "1223344",
+          "url": "http://res.cloudinary.com"
+        }],
+        "category": "Sports",
+        "seller": "amazon",
+        "stock": 40,
+        "numOfReviews": 24,
+        "rewiew": []
+      }
+]
